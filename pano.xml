@@ -45,6 +45,7 @@
       <hotspot skinid="ht_node" target="" id="Point01" pan="-359.11" title="세대입구" description="" tilt="-22.52" url="{node3}"/>
       <hotspot skinid="ht_node" target="" id="Point02" pan="-82.15" title="현관창고" description="" tilt="-21.42" url="{node1}"/>
       <hotspot skinid="ht_node" target="" id="Point03" pan="-179.09" title="복도2" description="" tilt="-39.96" url="{node11}"/>
+      <hotspot skinid="모자이크" customimage="media/ _-001 10.png" fov="8" distance3D="457.621" pan="-200.52" title="" tilt="5.06" target="_blank" id="Point04" description="" customimagewidth="64" use3D="1" customimageheight="64" url=""/>
     </hotspots>
     <media/>
     <transition softedge="0" zoomout="0" zoomoutpause="1" blendtime="1" zoomin="0" zoomafteroutfov="40" zoomspeed="2" zoomafterinfov="140" enabled="1" type="crossdissolve" zoomfov="40" blendcolor="0x000000" delay="none"/>
